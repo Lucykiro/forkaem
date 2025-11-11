@@ -5,6 +5,11 @@ fork for rest of life
 Найти различия и суть clone и fork.
 Сделать форк проекта в новую локальную репозиторию. Расписать по шагам
 ```
+## Понятие clone и fork
+```bash
+clone - это форк, но в visual code studio.
+fork - это clone, но в github.
+```
 
 ## Шаги
 ```bash
