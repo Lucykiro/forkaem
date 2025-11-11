@@ -7,7 +7,7 @@ fork for rest of life
 ```
 ## Понятие clone и fork
 ```bash
-clone - это форк, но в visual code studio.
+clone - это fork, но в visual code studio.
 fork - это clone, но в github.
 ```
 
